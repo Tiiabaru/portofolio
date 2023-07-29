@@ -20,7 +20,7 @@
         </div>
         <div class="my-7 mx-10">
         <div class="mt-3 sm:pr-8">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">PENDIDIKAN PERTAMA</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">SEKOLAH DASAR</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2013-2018</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-400">Bersekolah di SD SUKAMENAK 06</p>
         </div>
@@ -38,7 +38,7 @@
 
         <div class="my-7 mx-10">
         <div class="mt-3 sm:pr-8">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">PENDIDIKAN KEDUA</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">SEKOLAH MENENGAH PERTAMA</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018-2021</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-400">Lanjut bersekolah di SMP NEGRI 2 MARGAHAYU.</p>
         </div>
@@ -56,7 +56,7 @@
 
         <div class="my-7 mx-10">
         <div class="mt-3 sm:pr-8">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">PENDIDIDKAN KETIGA</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">SEKOLAH MENENGAH ATAS</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2020-Sekarang</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-400">Dan sekaranG melanjutkan sekolah di SMK ASSALAAM BANDUNG jurusan RPL .</p>
         </div>
@@ -64,4 +64,5 @@
     </li>
 </ol>
 </div>
+<br>
 </template>

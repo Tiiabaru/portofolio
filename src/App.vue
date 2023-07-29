@@ -6,6 +6,7 @@ import AboutComponent from './components/AboutComponent.vue'
 import PortofoliotComponent from './components/PortofoliotComponent.vue'
 import SosmedComponent from './components/SosmedComponent.vue'
 import PengalamanComponent from './components/PengalamanComponent.vue'
+import GaleryComponent from './components/GaleryComponent.vue'
 
 </script>
 
@@ -13,10 +14,12 @@ import PengalamanComponent from './components/PengalamanComponent.vue'
   <div>
    <NavbarComponent></NavbarComponent>
    <MenuComponent></MenuComponent>
+   <GaleryComponent></GaleryComponent>
     <AboutComponent></AboutComponent>
     <PengalamanComponent></PengalamanComponent>
     <PortofoliotComponent></PortofoliotComponent>
     <SosmedComponent></SosmedComponent>
+    <br>
     <FooterComponent></FooterComponent>
    </div>
 </template>

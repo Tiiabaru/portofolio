@@ -1,11 +1,11 @@
 <template>
-<section  style="margin: 10px;" class="bg-center bg-no-repeat bg-[url('https://png.pngtree.com/thumb_back/fh260/background/20221027/pngtree-elegant-gradient-black-with-slice-shadow-image_1469341.jpg' )]  bg-gray-700 bg-blend-multiply" height="800px" widht="850px">
+
+<section style="margin: 20px;" class="bg-center bg-no-repeat bg-[url('https://img.freepik.com/premium-photo/abstract-background-design-with-pastel-colors_692702-12508.jpg?w=2000')] bg-gray- bg-blend-multiply">
     <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
-        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Selamat Datang Di Portofolio </h1>
-        <h2 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Septia Sri Rejeki</h2>
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Selamat Datang  di Portofolio</h1>
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Septia Sri Rejeki</h1>
         <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-           <br>
-            <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+            <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-cream-700 hover:bg-cream-800 focus:ring-4 focus:ring-cream-300 dark:focus:ring-cream-900">
                 Get started
                 <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -17,6 +17,7 @@
         </div>
     </div>
 </section>
+
 
 
 </template>
